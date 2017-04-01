@@ -1,0 +1,204 @@
+@*
+ * This template is called from the `index` template. This template
+ * handles the rendering of the page header and body tags. It takes
+ * two arguments, a `String` for the title of the page and an `Html`
+ * object to insert into the body of the page.
+ *@
+@(title: String)
+<div id="mainPage">
+    <input type="hidden" id="currentUserId" value="">
+    <div id="message"><h1>@title</h1></div>
+
+    <form id="loginForm">
+        <table>
+            <tr>
+                <td>
+                    <input id="userId" type="text" placeholder="Email Id">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="password" type="password" placeholder="Password">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" id="loginButton" value="Sign In">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="#" id="createUserLink">Register</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <form id="createUserForm" style="display : none">
+        <table>
+            <tr>
+                <td>
+                    <input id="createUserId" type="text" placeholder="Email Id">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="createUserName" type="text" placeholder="Name">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="createPassword" type="password" placeholder="Password">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" id="createUserButton" value="Sign Up">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="#" id="loginUserLink">Sign In</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+@tasks()
+
+<script>
+
+    $('#loginButton').click(function(){
+        var userId = $('#userId').val();
+        var password = $('#password').val();
+        var dataObject = {
+            'userId': userId,
+            'password': password
+        }
+        $.ajax({
+            method : 'POST',
+            url: '@routes.ToDoController.login',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(dataObject),
+            success: function(result){
+                getUserName(userId);
+                getTasks(userId);
+                $('#mainPage').hide();
+                $('#tasksPage').show();
+                $('#currentUserId').val(userId);
+            },
+            error: function(error){
+                alert(error.responseJSON.message)
+            }
+        });
+    });
+
+    $('#createUserButton').click(function(){
+        var userId = $('#createUserId').val();
+        var userName = $('#createUserName').val();
+        var password = $('#createPassword').val();
+        var dataObject = {
+            'userId': userId,
+            'userName': userName,
+            'password': password
+        }
+        $.ajax({
+            method : 'POST',
+            url: '@routes.ToDoController.createUser',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(dataObject),
+            success: function(result){
+                $('#mainPage').hide();
+                $('#tasksPage').show();
+                $('#currentUserName').html(userName);
+                $('#currentUserId').val(userId);
+            },
+            error: function(error){
+                alert(error.responseJSON.message);
+            }
+        });
+    });
+
+    function getUserName(userId){
+        $.ajax({
+            method : 'GET',
+            url: '@routes.ToDoController.getUserName?userId='+userId,
+            success: function(result){
+                $('#currentUserName').html(result);
+            },
+            error: function(error){
+                $('#currentUserName').html(userId);
+            }
+        });
+    }
+
+    function getTasks(userId){
+        $.ajax({
+            method : 'GET',
+            url: '@routes.ToDoController.getTasks?userId='+userId,
+            success: function(result){
+                $('#tasksList').find("tr:gt(0)").remove();
+                result.forEach(function(task){
+                    var status='Unknown';
+                    if(task.isCompleted == true){
+                        status='Done';
+                    }else{
+                        status='Pending(<a href="#" onClick="markAsDone(this, '+task.id+')">Done</a>)';
+                    }
+                    var row='<tr style="border: 1px solid black;">'+
+                            '<td class="taskId" style="display:none;">'+task.id+'</td>'+
+                            '<td style="border: 1px solid black;">'+task.description+'</td>'+
+                            '<td style="border: 1px solid black;">'+new Date(task.endDate).toDateString()+'</td>'+
+                            '<td style="border: 1px solid black;">'+status+'</td>'+
+                            '<td style="border: 1px solid black;"><input type=button value="Delete" onClick="deleteTask(this, '+task.id+')"></td>'+
+                            '</tr>'
+                    $('#tasksList').append(row);
+                });
+                if($('#tasksList tr').length > 1){
+                    $('#tasksList').show();
+                }else{
+                    $('#tasksList').hide();
+                }
+            },
+            error: function(error){
+                alert(error.responseJSON.message);
+            }
+        });
+    }
+
+    function deleteTask(ele, taskId){
+        var userId = $('#currentUserId').val();
+        $.ajax({
+            type : 'DELETE',
+            url :  '/task/'+taskId+'?userId='+userId,
+            success: function(result){
+                $(ele).parent().parent().remove();
+                if($('#tasksList tr').length > 1){
+                    $('#tasksList').show();
+                }else{
+                    $('#tasksList').hide();
+                }
+            },
+            error: function(error){
+                alert(error.responseJSON.message);
+            }
+        });
+    }
+
+    function markAsDone(ele, taskId){
+        var userId = $('#currentUserId').val();
+        $.ajax({
+            method : 'POST',
+            url :  '/task/'+taskId+'?userId='+userId,
+            success: function(result){
+                $(ele).parent().html('Done');
+            },
+            error: function(error){
+                alert(error.responseJSON.message);
+            }
+        });
+    }
+
+
+</script>

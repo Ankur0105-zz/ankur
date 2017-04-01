@@ -1,0 +1,71 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+### NoDocs ###
+GET     /index                              controllers.ToDoController.index
+
+### NoDocs ###
+POST    /login                              controllers.ToDoController.login
+
+### NoDocs ###
+GET     /userName                           controllers.ToDoController.getUserName
+
+###
+#  description: "Create a user"
+#  parameters:
+#    - name: body
+#      required: true
+#      schema:
+#        $ref: '#/definitions/model.User'
+###
+POST    /user                               controllers.ToDoController.createUser
+
+###
+#  description: "Gets all tasks of particular user"
+#  parameters:
+#    - name: userId
+#      in: query
+#      required: true
+#      type: string
+###
+GET     /tasks                              controllers.ToDoController.getTasks
+
+###
+#  description: "Adds a task for a particular user"
+#  parameters:
+#    - name: body
+#      required: true
+#      schema:
+#        $ref: '#/definitions/model.TaskDto'
+###
+POST    /task                               controllers.ToDoController.createTask
+
+###
+#  description: "Deletes a task for a particular user"
+#  parameters:
+#    - name: userId
+#      in: query
+#      required: true
+#      type: string
+###
+DELETE  /task/:id                           controllers.ToDoController.deleteTask(id: Int)
+
+###
+#  description: "Mark a task completed for a particular user"
+#  consumes:
+#    - application/x-www-form-urlencoded
+#  parameters:
+#    - name: userId
+#      in: query
+#      required: true
+#      type: string
+###
+POST    /task/:id                           controllers.ToDoController.markAsCompleted(id: Int)
+
+### NoDocs ###
+GET     /docs/swagger-ui/*file              controllers.Assets.at(path:String="/public/lib/swagger-ui", file:String)
+
+### NoDocs ###
+GET     /assets/*file                       controllers.Assets.versioned(path="/public", file: Asset)

@@ -1,0 +1,62 @@
+@()
+
+<div id="tasksPage" style="display : none">
+    <h1> Welcome <span id="currentUserName"></span></h1>
+
+    <form>
+        <table>
+            <tr>
+                <td>
+                    <textarea name="description" id="taskDesc" placeholder="Create Task"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" name="endDate" id="taskEndDate" placeholder="MM/DD/YYYY">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" id="createTask" value="Create Task" >
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <table id="tasksList" style="display:none; border: 1px solid black; border-collapse: collapse;">
+        <tr style="border: 1px solid black;">
+            <th class="taskId" style="display:none;">Id</th>
+            <th style="border: 1px solid black;">Task Description</th>
+            <th style="border: 1px solid black;">End Date</th>
+            <th style="border: 1px solid black;">Status</th>
+            <th style="border: 1px solid black;">Action</th>
+        </tr>
+    </table>
+</div>
+
+<script>
+    $('#createTask').click(function(){
+        var userId = $('#currentUserId').val();
+        var description = $('#taskDesc').val();
+        var endDate = $('#taskEndDate').val();
+        var dataObject = {
+            'userId': userId,
+            'description': description,
+            'endDate': endDate
+        }
+        $.ajax({
+            method : 'POST',
+            url: '@routes.ToDoController.createTask',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(dataObject),
+            success: function(result){
+                $('#taskDesc').val('');
+                $('#taskEndDate').val('');
+                getTasks(userId);
+            },
+            error: function(error){
+                alert(error.responseJSON.message);
+            }
+        });
+    });
+</script>
