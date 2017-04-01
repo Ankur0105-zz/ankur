@@ -1,0 +1,25 @@
+test
+console
+run
+test
+run
+rub
+run
+test
+run
+sbt
+run
+submit ankurgupta1592@gmail.com eUIsjHiALJ3qvORh
+run
+un
+run
+submit ankurgupta1592@gmail.com TkxX2rVtx6vVUCRw
+run
+submit ankurgupta1592@gmail.com RA4g9jig3eYfvEbf
+run
+if(p(elem)) {
+      left.filterAcc(p,acc.incl(elem)).union(right.filterAcc(p,acc.incl(elem)))
+    }else{
+      left.filterAcc(p,acc).union(right.filterAcc(p,acc))
+run
+submit ankurgupta1592@gmail.com WXTqO1939jcmBaqc

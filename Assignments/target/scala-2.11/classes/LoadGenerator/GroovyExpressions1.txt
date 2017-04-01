@@ -1,0 +1,8000 @@
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5
+t * 2
+t * t
+t * t + 20 * t
+t * 4
+t / 5

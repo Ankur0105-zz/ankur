@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains elements present in both set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains all elements present in first set but not in second[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter contains all elements present in set for which the predicate holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall returns true if the predicate holds for all the elements in set[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists returns true if the predicate holds for any one of the element in set[0m[0m
+[0m[[0minfo[0m] [0m[32m- map returns Set containing all the transformed elements[0m[0m

@@ -1,0 +1,479 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Scala Workspace\Assignments\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$1.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$2.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$evaluateToCaseClassExpr$1.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$evaluateToCaseClassExpr$2.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$BinOp$.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$BinOp.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Expr.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Number$.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Number.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Var$.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Var.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$delayedInit$body.class
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\Expression$.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\Expression.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadCalculatorActor$$anonfun$receive$1.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadCalculatorActor.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$1.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$calculateLoadWithActor$1.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$calculateLoadWithParallelCollections$1.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$evaluateAndPrint$1.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$.class
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$1.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$2.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$3.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$4.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$5.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$delayedInit$body.class
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount.class
+binary dependencies:
+8 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> C:\Users\E6430\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> C:\Users\E6430\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.4.jar
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> C:\Users\E6430\.ivy2\cache\org.codehaus.groovy\groovy-all\jars\groovy-all-2.4.8.jar
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> C:\Users\E6430\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> C:\Users\E6430\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$$anonfun$1
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$$anonfun$2
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$$anonfun$evaluateToCaseClassExpr$1
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$$anonfun$evaluateToCaseClassExpr$2
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$BinOp
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$BinOp$
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$Expr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$Number
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$Number$
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$Var
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$Var$
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter$delayedInit$body
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Expression
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Expression$
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadCalculatorActor
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadCalculatorActor$$anonfun$receive$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator$
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator$$anonfun$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator$$anonfun$calculateLoadWithActor$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator$$anonfun$calculateLoadWithParallelCollections$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator$$anonfun$evaluateAndPrint$1
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$$anonfun$1
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$$anonfun$2
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$$anonfun$3
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$$anonfun$4
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$$anonfun$5
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount$delayedInit$body
+used names:
+257 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> !=
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> &&
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> *
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> +
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> -
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ->
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> /
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> <init>
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ==
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> AbstractFunction1
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> AbstractFunction3
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> AnyRef
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> App
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Array
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> BinOp
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ClassTag
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Double
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Expr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ExprFormatter
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Int
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> List
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Map
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> None
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Number
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Predef
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Product
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ScalaRunTime
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Serializable
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Stack
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Statics
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> String
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> Var
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> _1
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> _2
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> _hashCode
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> _toString
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> apply
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> asInstanceOf
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> augmentString
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> bottom
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> bottomArray
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> bracket
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> canBuildFrom
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> charAt
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> charWrapper
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> collection
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> contains
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> doubleHash
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> enclPrec
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> endsWith
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> eq
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> eval
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> evaluateToCaseClassExpr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> expr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> exprList
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> exprStr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> extraSpace
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> finalizeHash
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> foreach
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> formattedExpr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> generateSpace
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> head
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> immutable
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> intWrapper
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> isDigit
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> isInstanceOf
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> left
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> leftExpr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> length
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> line
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> map
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> materializeClassTag
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> max
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> maxLength
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> mix
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> mkString
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> mutable
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> name
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ne
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> num
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> op
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> opPrec
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> operandStack
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> operator
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> operatorList
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> operatorStack
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> opr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> package
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> pop
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> precedenceMap
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> println
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> push
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> refArrayOps
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> replaceAll
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> right
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> rightExpr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> runtime
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> s
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> scala
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> showFormattedExpr
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> split
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> str
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> substring
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> tail
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> toDouble
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> toList
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> toString
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> top
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> topArray
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> typedProductIterator
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> while$1
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> ||
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> !
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> &&
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> +
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> :+
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> <init>
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ==
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> A1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> AbstractFunction1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Actor
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ActorSystem
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> AnyRef
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> AnyVal
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Array
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Await
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> B1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ClassTag
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Codec
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Eval
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ExecutionContext
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Expression
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Function1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Future
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Implicits
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Int
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> List
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadCalculatorActor
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> LoadGenerator
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Nil
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> None
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Predef
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> PrintWriter
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Product
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Props
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ScalaRunTime
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Seq
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Serializable
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Source
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> String
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Tuple2
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> Unit
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> _1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> _2
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> _hashCode
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> _toString
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> actor
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> actorOf
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> actorRef2Scala
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> akka
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> apply
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> asInstanceOf
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> calculateLoadWithFuture
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> calculateLoadWithFutureHelper
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> canBuildFrom
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> close
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> collection
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> concurrent
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> duration
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> eq
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> evaluateAndPrint
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> expression
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> expressionList
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> f
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> fallbackSystemCodec
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> filepath
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> foreach
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> fromFile
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> futureSeq
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> getLines
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> global
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> groovy
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> head
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> immutable
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> intWrapper
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> io
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> isInstanceOf
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> j
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> java
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> listExpression
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> materializeClassTag
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> me
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> package
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> par
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> println
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> qual$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> result
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> runtime
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> scala
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> second
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> sequence
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> shutdown
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> source
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> system
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> tail
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> to
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> toList
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> toString
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> typedProductIterator
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> unchecked
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> util
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> writer
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> x$1
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> x$2
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> zipWithIndex
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> ||
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> +
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> <init>
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> >
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> App
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> Int
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> List
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> Ordering
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> Predef
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> PrintWriter
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> Source
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> WordCount
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> _1
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> _2
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> augmentString
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> canBuildFrom
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> charWrapper
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> close
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> fallbackStringCanBuildFrom
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> filter
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> fromFile
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> groupBy
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> immutable
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> io
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> isLetterOrDigit
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> java
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> length
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> map
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> math
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> mkString
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> out
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> println
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> refArrayOps
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> scala
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> sortBy
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> source
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> split
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> toInt
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> toList
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> toLowerCase
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> word
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> wordListWithCount
+product stamps:
+32 items
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\Expression$.class -> lastModified(1485770629565)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\Expression.class -> lastModified(1485770629540)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$1.class -> lastModified(1485772331218)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$2.class -> lastModified(1485772331227)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$evaluateToCaseClassExpr$1.class -> lastModified(1485772331253)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$$anonfun$evaluateToCaseClassExpr$2.class -> lastModified(1485772331269)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$.class -> lastModified(1485772331206)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$BinOp$.class -> lastModified(1485772331281)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$BinOp.class -> lastModified(1485772331305)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$delayedInit$body.class -> lastModified(1485772331367)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Expr.class -> lastModified(1485772331310)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Number$.class -> lastModified(1485772331337)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Number.class -> lastModified(1485772331326)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Var$.class -> lastModified(1485772331362)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter$Var.class -> lastModified(1485772331351)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\ExprFormatter.class -> lastModified(1485772331024)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadCalculatorActor$$anonfun$receive$1.class -> lastModified(1485770629647)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadCalculatorActor.class -> lastModified(1485770629622)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$1.class -> lastModified(1485770629747)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$calculateLoadWithActor$1.class -> lastModified(1485770629758)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$calculateLoadWithParallelCollections$1.class -> lastModified(1485770629766)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$$anonfun$evaluateAndPrint$1.class -> lastModified(1485770629786)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator$.class -> lastModified(1485770629737)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\LoadGenerator.class -> lastModified(1485770629675)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$1.class -> lastModified(1485756719302)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$2.class -> lastModified(1485756719311)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$3.class -> lastModified(1485756719315)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$4.class -> lastModified(1485756719315)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$$anonfun$5.class -> lastModified(1485756719315)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$.class -> lastModified(1485756719281)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount$delayedInit$body.class -> lastModified(1485756719330)
+D:\Scala Workspace\Assignments\target\scala-2.11\classes\WordCount.class -> lastModified(1485756719065)
+source stamps:
+3 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> hash(836a064045623149f91866d6912a1dc7864db9d0)
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> hash(3cbe862f776b646b40ed3ecb2e5ec21f4c8db7d4)
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> hash(074a4fe548d268379384062043fb6829255ed6ea)
+binary stamps:
+4 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1481262367744)
+C:\Users\E6430\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.4.jar -> lastModified(1404129702000)
+C:\Users\E6430\.ivy2\cache\org.codehaus.groovy\groovy-all\jars\groovy-all-2.4.8.jar -> lastModified(1484320885000)
+C:\Users\E6430\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+4 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\E6430\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.4.jar -> akka.actor.Actor
+C:\Users\E6430\.ivy2\cache\org.codehaus.groovy\groovy-all\jars\groovy-all-2.4.8.jar -> groovy.util.Eval
+C:\Users\E6430\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.App
+internal apis:
+3 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDjmwxCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNivS/90AAxvcGVyYXRvckxpc3RzcQB+AAykMyohdAAGbm90aWZ5c3EAfgAMREcvMXQAB3VuYXBwbHlzcQB+AAxzGZyKdAANZ2VuZXJhdGVTcGFjZXNxAH4ADPJTgUh0AAdjdXJyaWVkc3EAfgAMG58EXXQABG5hbWVzcQB+AAw3cyEydAANZm9ybWF0dGVkRXhwcnNxAH4ADE8+zIt0ABdldmFsdWF0ZVRvQ2FzZUNsYXNzRXhwcnNxAH4ADJlGVX50AAR3YWl0c3EAfgAMHRTXaXQADmNvcHkkZGVmYXVsdCQyc3EAfgAM4M9oqXQADSRhc0luc3RhbmNlT2ZzcQB+AAwT8Ad1dAAHY29tcG9zZXNxAH4ADGQSSpN0AANWYXJzcQB+AAzEp+FndAAMcHJvZHVjdEFyaXR5c3EAfgAMMqXfunQABmVxdWFsc3NxAH4ADENJ3mh0AAZOdW1iZXJzcQB+AAwh68ccdAAMYXNJbnN0YW5jZU9mc3EAfgAMfx+xxnQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMgfHgCXQABEV4cHJzcQB+AAwkqaiudAAMc3luY2hyb25pemVkc3EAfgAMjaTykHQABGxlZnRzcQB+AAwAGH8adAANJGlzSW5zdGFuY2VPZnNxAH4ADOes0ml0AAdhbmRUaGVuc3EAfgAMiXhQ8XQABnR1cGxlZHNxAH4ADMrFVdp0AAhjYW5FcXVhbHNxAH4ADNgUX+d0AARtYWluc3EAfgAM9RJJ73QADXByb2R1Y3RQcmVmaXhzcQB+AAy95O9NdAAJbm90aWZ5QWxsc3EAfgAMafuDr3QAC3JlYWRSZXNvbHZlc3EAfgAMpe2SOnQAA251bXNxAH4ADPpC2Dl0AAxpc0luc3RhbmNlT2ZzcQB+AAyC7HfpdAAEZXZhbHNxAH4ADH+1wLB0AA1FeHByRm9ybWF0dGVyc3EAfgAMR8KcH3QABjxpbml0PnNxAH4ADAzvzz90AAVhcHBseXNxAH4ADN2FmHl0AAVCaW5PcHNxAH4ADN+bQRB0AAI9PXNxAH4ADLt0VG10AAhvcGVyYXRvcnNxAH4ADL4I2WN0AAVjbG9uZXNxAH4ADNlL14F0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADE4O3590AARjb3B5c3EAfgAM8uQdSXQACHRvU3RyaW5nc3EAfgAMm0POVnQABGFyZ3NzcQB+AAylwBtcdAACIT1zcQB+AAzMVsBldAAIZ2V0Q2xhc3NzcQB+AAxHAevzdAAOY29weSRkZWZhdWx0JDFzcQB+AAxrfy4KdAACbmVzcQB+AAwC+cR9dAACZXFzcQB+AAy5k9qidAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM1tZ9W3QADXByZWNlZGVuY2VNYXBzcQB+AAxoQAGSdAAFcmlnaHRzcQB+AAwttriHdAALZGVsYXllZEluaXRzcQB+AAw/5QJ/dAACIyNzcQB+AAymNdVudAAIZmluYWxpemVzcQB+AAxXUCzxdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzYRblldAAIaGFzaENvZGVzcQB+AAyVtdjkdAARc2hvd0Zvcm1hdHRlZEV4cHJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AE91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCjeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCiAHBzcQB+AKdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AiUwACWluaGVyaXRlZHEAfgCJTAAHcGFyZW50c3EAfgCJeHEAfgCrc3EAfgCiAHBzcQB+AKd1cQB+AIQAAAAAc3EAfgCiAHBzcQB+AKd1cQB+AIQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIpxAH4Ak3VxAH4AlAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+ALh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AqnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDSc3EAfgCWAHEAfgBBdXEAfgCYAAAAAHNxAH4AxXQABFVuaXRxAH4Ay3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ALh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJt0AAVQbGFpbnEAfgBjc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDGWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCqc3EAfgDFdAAFQXJyYXlxAH4Ay3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDFdAAGU3RyaW5nc3EAfgDJc3EAfgDMdXEAfgDPAAAAA3NxAH4A0XQABGphdmFzcQB+ANF0AARsYW5ncQB+ANZzcQB+AKIAcHNxAH4Ap3VxAH4A7QAAAARzcQB+AMV0AANBcHBxAH4Ay3NxAH4AxXQAC0RlbGF5ZWRJbml0cQB+AMtzcQB+AMV0AAZPYmplY3RxAH4A8XNxAH4AxXQAA0FueXEAfgDLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnu7nC4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUg2oGQEViMUn5GGbWkSodx4ZNudA=
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAMjvZ3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw28coJnQABHNlbGZzcQB+AAt/YNsndAAHY29udGV4dHVxAH4ACQAAADVzcQB+AAvxtFM6dAAGbm90aWZ5c3EAfgALa7/pknQAB1JlY2VpdmVzcQB+AAvoleO5dAAGc291cmNlc3EAfgALAc14/3QABHdhaXRzcQB+AAvkDDwqdAANJGFzSW5zdGFuY2VPZnNxAH4AC3BY+ZB0AAxwcm9kdWN0QXJpdHlzcQB+AAttcXpNdAAGZXF1YWxzc3EAfgALxtPV93QADGFzSW5zdGFuY2VPZnNxAH4ACyEqclt0AAxzeW5jaHJvbml6ZWRzcQB+AAuvxrf1dAAWY2FsY3VsYXRlTG9hZFdpdGhBY3RvcnNxAH4AC8V6G3V0AA0kaXNJbnN0YW5jZU9mc3EAfgALHTMX4HQADUxvYWRHZW5lcmF0b3JzcQB+AAspRsSKdAAHcmVjZWl2ZXNxAH4ACzh7XId0AApwcmVSZXN0YXJ0c3EAfgALzeZLp3QACkV4cHJlc3Npb25zcQB+AAs6MEfQdAANYXJvdW5kUmVjZWl2ZXNxAH4ACxM2P9V0AAhjYW5FcXVhbHNxAH4ACwr4Hnl0AAtwb3N0UmVzdGFydHNxAH4AC1ktZR10AARtYWluc3EAfgALuxa0r3QACHBvc3RTdG9wc3EAfgALd+ijUnQADXByb2R1Y3RQcmVmaXhzcQB+AAvAOoRZdAAkY2FsY3VsYXRlTG9hZFdpdGhQYXJhbGxlbENvbGxlY3Rpb25zc3EAfgALwQqEfHQACW5vdGlmeUFsbHNxAH4AC1nKrbV0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC3I5pDh0AAxpc0luc3RhbmNlT2ZzcQB+AAsMr2EXdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC2BLQwh0AA5hcm91bmRQb3N0U3RvcHNxAH4AC2LuANJ0AAY8aW5pdD5zcQB+AAvpcTgIdAAIZmlsZXBhdGhzcQB+AAuTVGladAAIcHJlU3RhcnRzcQB+AAt30LQYdAAJdW5oYW5kbGVkc3EAfgALJq/jDHQACmV4cHJlc3Npb25zcQB+AAsWmAtVdAAXY2FsY3VsYXRlTG9hZFdpdGhGdXR1cmVzcQB+AAv1bMxkdAACPT1zcQB+AAs2tOXWdAAFY2xvbmVzcQB+AAvQPJdYdAATTG9hZENhbGN1bGF0b3JBY3RvcnNxAH4AC+Oh09d0AA5leHByZXNzaW9uTGlzdHNxAH4ACy8c7Ep0AARjb3B5c3EAfgALkB3Nn3QABnNlbmRlcnNxAH4ACwmd/1R0AAh0b1N0cmluZ3NxAH4AC4NNTdl0AAIhPXNxAH4AC6KW/ap0AAhnZXRDbGFzc3NxAH4AC+lUmK50AA5jb3B5JGRlZmF1bHQkMXNxAH4AC8l3wB10ABBldmFsdWF0ZUFuZFByaW50c3EAfgALXBqLUHQAAm5lc3EAfgALbbhn2XQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACx3Mxk10AAJlcXNxAH4ACz+nW4x0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvUM6WkdAACIyNzcQB+AAt7lbXbdAAIZmluYWxpemVzcQB+AAuZuweXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvWvrondAAIaGFzaENvZGVzcQB+AAsCjuPFdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AC91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AnAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCjc3EAfgCcAXVxAH4AgAAAAABwc3EAfgCcAXVxAH4AgAAAAABwc3EAfgCcAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AonQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AonNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AvHNxAH4Ar3EAfgCyc3EAfgCzc3EAfgC2dXEAfgC5AAAAA3NxAH4Au3QABGphdmFzcQB+ALt0AAJpb3EAfgDAc3EAfgCvdAAHUHJvZHVjdHEAfgC1c3EAfgCvdAAGRXF1YWxzcQB+ALVzcQB+AK90AAZPYmplY3RzcQB+ALNzcQB+ALZ1cQB+ALkAAAADc3EAfgC7cQB+AMZzcQB+ALt0AARsYW5ncQB+AMBzcQB+AK90AANBbnlxAH4AtXBwc3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgBZdXEAfgCUAAAAAHEAfgCYdXEAfgCaAAAAAHNxAH4AnAFxAH4ApHBzcQB+AJwBc3EAfgCmc3EAfgCcAXVxAH4AgAAAAABwc3EAfgCcAXVxAH4AgAAAAABwc3EAfgCcAXVxAH4ArQAAAANzcQB+AK90AAVBY3RvcnNxAH4As3NxAH4AtnVxAH4AuQAAAANzcQB+ALt0AARha2thc3EAfgC7dAAFYWN0b3JxAH4AwHNxAH4Ar3EAfgDOc3EAfgCzc3EAfgC2dXEAfgC5AAAAA3NxAH4Au3EAfgDGc3EAfgC7cQB+ANRxAH4AwHNxAH4Ar3EAfgDWc3EAfgCzc3EAfgC2dXEAfgC5AAAAAnNxAH4Au3EAfgC+cQB+AMBwcHNxAH4AgnEAfgCPdXEAfgCQAAAAAHNxAH4AkgBxAH4AKXVxAH4AlAAAAAB+cQB+AJZ0AAZNb2R1bGV1cQB+AJoAAAAAc3EAfgCcAXEAfgCkcHNxAH4AnAFzcQB+AKZzcQB+AJwBdXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA3dXEAfgCUAAAAAHNxAH4Ar3QABFVuaXRzcQB+ALNzcQB+ALZ1cQB+ALkAAAACc3EAfgC7cQB+AL5xAH4AwHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AQZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJd0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ALBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKJzcQB+AK90AAVBcnJheXEAfgEOdXEAfgCtAAAAAXNxAH4Ar3QABlN0cmluZ3NxAH4As3NxAH4AtnVxAH4AuQAAAANzcQB+ALtxAH4AxnNxAH4Au3EAfgDUcQB+AMBwc3EAfgCcAXVxAH4AgAAAAABwc3EAfgCcAXVxAH4ArQAAAAJzcQB+AK9xAH4AznEAfgEoc3EAfgCvcQB+ANZxAH4BDnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnu1H2RdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPL6GL3drZGtA7T7LLl7CH0yNt9Q=
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBkuXC2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNHw/Wh0AAZub3RpZnlzcQB+AAzJKXXmdAAGc291cmNlc3EAfgAMsjbkxnQABHdhaXRzcQB+AAyO48uHdAANJGFzSW5zdGFuY2VPZnNxAH4ADCoSxWJ0AAZlcXVhbHNzcQB+AAwE13AddAAMYXNJbnN0YW5jZU9mc3EAfgAMG6WhDnQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMh9JhZHQADHN5bmNocm9uaXplZHNxAH4ADFubktN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFXxVhXQABG1haW5zcQB+AAxDqqbwdAAJV29yZENvdW50c3EAfgAM0ysrn3QACW5vdGlmeUFsbHNxAH4ADFpQNqJ0AANvdXRzcQB+AAw5p6mAdAAMaXNJbnN0YW5jZU9mc3EAfgAMuJe/73QAEXdvcmRMaXN0V2l0aENvdW50c3EAfgAMWYDF33QAAj09c3EAfgAMhBrzNnQABWNsb25lc3EAfgAMUeyE9HQACHRvU3RyaW5nc3EAfgAMWynZXXQABGFyZ3NzcQB+AAypUN9ddAACIT1zcQB+AAyhVrVsdAAIZ2V0Q2xhc3NzcQB+AAwLYWb9dAACbmVzcQB+AAzm3U7udAACZXFzcQB+AAx95J/SdAALZGVsYXllZEluaXRzcQB+AAyz0iKbdAACIyNzcQB+AAwXZpOddAAIZmluYWxpemVzcQB+AAxPVtiudAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGYBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbXNxAH4AZgF1cQB+AEgAAAAAcHNxAH4AZgF1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHd4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCRc3EAfgBaAHEAfgAhdXEAfgBcAAAAAHNxAH4AhHQABFVuaXRxAH4AinVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF90AAVQbGFpbnEAfgAzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCFWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBsc3EAfgCEdAAFQXJyYXlxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCEdAAGU3RyaW5nc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHQABGphdmFzcQB+AJB0AARsYW5ncQB+AJVwc3EAfgBmAXVxAH4ArAAAAARzcQB+AIR0AANBcHBxAH4AinNxAH4AhHQAC0RlbGF5ZWRJbml0cQB+AIpzcQB+AIR0AAZPYmplY3RxAH4AsHNxAH4AhHQAA0FueXEAfgCKcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe4ARYt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4RDpcU2NhbGEgV29ya3NwYWNlXEFzc2lnbm1lbnRzXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQHSk/lSNJoN5OEBiBD+2gpJV7W6g==
+external apis:
+0 items
+source infos:
+3 items
+D:\Scala Workspace\Assignments\src\main\scala\ExprFormatter.scala -> 
+AAAAAAAAAAA=
+D:\Scala Workspace\Assignments\src\main\scala\LoadGenerator.scala -> 
+AAAAAAAAAAA=
+D:\Scala Workspace\Assignments\src\main\scala\WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+35 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3FDSJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3F8pN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3gGmh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3nTu51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3rCx91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3sclN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3uMrt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3vTR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3yiOF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe3zds91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe4ARYt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe40gIV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe42duV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe443y11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe4+6vB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe5fEqV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe52SqR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe6wkBh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe62wFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe65apF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe67AVR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7SqdN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7UfZF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7Z6j91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7bT3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7csHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7eYel1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7gHdV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7mAHN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7pDEB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7qSUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7q6yV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7rm4d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7soet1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWe7ucLh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhIFdvcmtzcGFjZVxBc3NpZ25tZW50c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
